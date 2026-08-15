@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=HandBrake
+Comment=Convert video from nearly any format.
+Exec=ghb %f
+Icon=fr.handbrake.ghb
+Terminal=false
+Categories=AudioVideo;Video;
