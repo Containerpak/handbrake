@@ -7,3 +7,4 @@ RUN apt-get update && \
     cpak-clean-junk
 
 COPY fr.handbrake.ghb.desktop /usr/share/applications/fr.handbrake.ghb.desktop
+COPY icon.png /usr/share/icons/hicolor/128x128/apps/fr.handbrake.ghb.png
