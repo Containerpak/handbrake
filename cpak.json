@@ -4,7 +4,7 @@
   "name": "HandBrake",
   "description": "Convert video from nearly any format.",
   "version": "1.11.0",
-  "image": "ghcr.io/containerpak/handbrake@sha256:042e77c23bd72a91e981ea5ae23cf81ddcdd2ced13e3e4ede13337a6d769cc15",
+  "image": "ghcr.io/containerpak/handbrake@sha256:d6febbf626e7ab75dc971c65d35c0eacaca5f54169be6ed8be4ea7aa8c0c9455",
   "binaries": [
     "/usr/bin/ghb"
   ],
